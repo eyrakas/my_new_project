@@ -25,9 +25,20 @@
 |age45_54|The percent of population aged between 45 to 54 years|demographic data|
 |age55_64|The percent of population aged between 55 to 64 years|demographic data|
 |age64plus|The percent of population aged more than 65 years|demographic data|
-|       |                                     |                                             |
-|  |                                     |                                             |
+|median_household_income|The median income for each family in the zipcode| economic data|
+|unemployed_age_16|Percent of unemployed aged 16 and less|economic data|
+|high_school_grad_or_less|Percent that graduated high school or lower|economic data|
+|high_school_grad|Percent of high school graduates|economic data|
+|associate_degree|Percent with associate degrees in the neighbourhood|economic data|
+|college_grad|Percent with college graduate degrees in the neihbourhood|economic data|
+|area|The area of the neighbourhood in Acres|economic data|
+|length|The perimeter of the neighbourhood|economic data|
 |          	     |                                     |                                             |
 |          	     |                                     |                                             |
+|          	     |                                     |                                             |
+|          	     |                                     |                                             |
+|          	     |                                     |                                             |
+|          	     |                                     |                                             |
+
 
 
