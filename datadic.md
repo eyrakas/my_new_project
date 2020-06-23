@@ -33,12 +33,29 @@
 |college_grad|Percent with college graduate degrees in the neihbourhood|economic data|
 |area|The area of the neighbourhood in Acres|economic data|
 |length|The perimeter of the neighbourhood|economic data|
+|Council_District|The Council District No in which the park is found|Parks Data|
+|Main_District|The Main District No, in which the park is found|Parks Data|
+|Park_Type|The type of park. i.e. Neighbourhood Parks, Park Chains, etc.|Parks Data|
+|Park Name|The specific name of the park|Parks Data|
+|Owner|The registered owner of the park|Parks Data|
+|Municipality|The city adminstrator under which the park is registered|Parks Data|
+|Area_in_Acres|The actual area of the parks in Acres|Parks Data|
+|CFD|Community Facilities Districts|Parks Data|
+|PROCHN|Park Chains|Parks Data|
+|OS|Open Space Parks|Parks Data|
+|SPRT|Sports Parks|Parks Data|
+|PRKCH|Park Chains with recreational facilities|Parks Data|
+|JU|Joint Use Parks|Parks Data|
+|REG|Gathering Public Parks|Parks Data|
+|NAT|National Parks|Parks Data|
+|CTY|City Parks or County Parks|Parks Data|
+|DOT|Recreation areas embedded to schools|Parks Data|
 |          	     |                                     |                                             |
 |          	     |                                     |                                             |
 |          	     |                                     |                                             |
-|          	     |                                     |                                             |
-|          	     |                                     |                                             |
-|          	     |                                     |                                             |
+
+
+
 
 
 
