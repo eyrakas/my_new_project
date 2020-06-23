@@ -50,9 +50,23 @@
 |NAT|National Parks|Parks Data|
 |CTY|City Parks or County Parks|Parks Data|
 |DOT|Recreation areas embedded to schools|Parks Data|
+|FACID|Facility ID, unique idenfitier for health center|Healthcare Dataset|
+|FACNAME|Name of the Facility|Healthcare Dataset|
+|FAC_FDR|Designation of Facility|Healthcare Dataset|
+|LTC|Longterm Care Medical center|Healthcare Dataset|
+|ADDRESS|The physical address of the center|Healthcare Dataset|
+|ZIP|The zipcode of the area the center is found|Healthcare Dataset|
+|COUNTY_NAME|The name of the county the health center is found|Healthcare Dataset|
+|LATITUDE|The geometric latitude the center is located|Healthcare Dataset|
+|LONGITUDE|The geometric longitude the center is located|Healthcare Dataset|
+|parking_lot|Designated parking lot|Healthcare Dataset|
+|num_events|Number of trips that start or end at the center|Healthcare Dataset|
+|avg_trip_duration|Average trip duration from origin zip code to the center|Healthcare Dataset|
+|median_trip_duration|Median trip duration from origin zip code to the center|Healthcare Dataset|
+|origin_zip|The zipcode the trip is originated|Healthcare Dataset|
 |          	     |                                     |                                             |
-|          	     |                                     |                                             |
-|          	     |                                     |                                             |
+
+
 
 
 
