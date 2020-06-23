@@ -1,6 +1,6 @@
-| Name   | Description                                 |         Dataset                             | 
+| Variable   | Description                                 |         Source                             | 
 |--------|---------------------------------------------|---------------------------------------------|
-| journeyId	|The unique identifier for each journey ID, whether it's trip start or trip end   |wejo data                                             |
+| journeyId	|The unique identifier for each journey ID, whether it's trip start or trip end   |[wejo data](/home/capstone/amenity_gap_data/data/wejo_clean)                                             |
 | capturedTimestamp|The date and time the event was recorded                                   |wejo data                                             |
 | latitude	     |The geographic coordinate position for North/South position  |  wejo data                                           |
 | longitude	     |The geographic coordinate position for East/West position  |  wejo data  |
